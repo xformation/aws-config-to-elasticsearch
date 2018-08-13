@@ -16,7 +16,7 @@ git clone --depth 1 git@github.com:awslabs/aws-config-to-elasticsearch.git
 
 ### The code
 #### Prerequisites
-* Python 2.7
+* Python 3
 * An ELK stack, up and running
 * Install the required packages. The requirements.txt file is included with this repo.
 ```
